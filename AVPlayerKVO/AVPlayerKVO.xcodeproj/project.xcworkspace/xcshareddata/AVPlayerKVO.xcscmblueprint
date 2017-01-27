@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E170B8DBBA17DE1A761FD555E49F78F8C98D9A2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "81B3E9FF0EFBA26198BF029781F2ACB31CE09B18" : 9223372036854775807,
+    "E170B8DBBA17DE1A761FD555E49F78F8C98D9A2C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "01EB3CCD-A4A7-4169-9B5D-ECBA037506E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "81B3E9FF0EFBA26198BF029781F2ACB31CE09B18" : "..\/..\/Projects\/AC3.2\/AC3.2-AVPlayerKVO",
+    "E170B8DBBA17DE1A761FD555E49F78F8C98D9A2C" : "AVPlayer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AVPlayerKVO",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AVPlayerKVO\/AVPlayerKVO.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amtung\/AC3.2-AVPlayerKVO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81B3E9FF0EFBA26198BF029781F2ACB31CE09B18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amtung\/AVPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E170B8DBBA17DE1A761FD555E49F78F8C98D9A2C"
+    }
+  ]
+}
